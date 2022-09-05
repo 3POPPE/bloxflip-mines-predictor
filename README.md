@@ -4,3 +4,6 @@ super real but besides that this is a simple code halfly written by me but half 
 instructions.
 run the "installer.bat" and it will start install all the packages you need
 after that then go into main.py and put your bot token at the bottom where is says ("put token here") *keep the punctuation marks*
+
+
+OH ALSO when making the discord bot make sure to go to the bot and turn on all the "privilaged gateway intents"
