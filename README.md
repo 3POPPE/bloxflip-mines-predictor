@@ -7,3 +7,7 @@ after that then go into main.py and put your bot token at the bottom where is sa
 
 
 OH ALSO when making the discord bot make sure to go to the bot and turn on all the "privilaged gateway intents"
+
+
+
+*btw this fr works kinda idk it does but kinda doesnt just use it its cool*
