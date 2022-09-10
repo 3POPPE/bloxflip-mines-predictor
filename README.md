@@ -1,4 +1,4 @@
-# real-real-real-super-real-very-real-bloxflip-mines-predictor
+# real-real-real-super-real-very-real-bloxflip-mines-predictor (it actually works!!!)
 super realistic real 100% working predictor that isnt just based off luck !!!!!!!! REALLLL RAHHHH
 super real but besides that this is a simple code halfly written by me but half now if yk what i mean. anyways
 instructions.
